@@ -2,6 +2,10 @@
 
 All of the above files are based on NQT 2021, which can be refered for current year also.
 
+<br>
+
+For tutorial videos [click here](https://www.youtube.com/playlist?list=PL3JmT-xgOMNzl4wFgzy3ng-LRvau-c-ME)
+
 ## Important Topics
 
 <img src="img/1.jpg"/>
@@ -11,7 +15,7 @@ All of the above files are based on NQT 2021, which can be refered for current y
 
 ## Advanced Coding
 
-Refer the following questions [here](https://www.geeksforgeeks.org/tcs-nqt-coding-sheet-exam-preparation/)
+Refer the following questions [click here](https://www.geeksforgeeks.org/tcs-nqt-coding-sheet-exam-preparation/)
 
 ## Download this repository
 Click on code and download as a zip file
